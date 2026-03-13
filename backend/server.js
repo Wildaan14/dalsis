@@ -15,6 +15,9 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
+app.get('/', (req, res) => {
+  res.send('DALSIS-AI API is Online! Use /api/health to check status.');
+});
 app.use('/api/ews', ewsRoutes);
 app.use('/api/market', marketRoutes);
 app.use('/api/mrv', mrvRoutes);
