@@ -5,6 +5,7 @@
 
 # Google Earth Engine Keys (SANGAT RAHASIA)
 *.json
+backend/config/gee-key.json
 !package.json
 !tsconfig.json
 !composer.json
