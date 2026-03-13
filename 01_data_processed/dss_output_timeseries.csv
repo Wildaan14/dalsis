@@ -1,0 +1,55 @@
+kabupaten,tahun,tier,CO2eq_t,real_thi,priority,rekomendasi_utama
+Bogor,2024,MERAH,115753.79200000002,72.98,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Sukabumi,2024,MERAH,126112.9542,72.06,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Cianjur,2024,MERAH,158149.59618,70.55,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Bandung,2024,MERAH,193147.27678,67.18,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Garut,2024,MERAH,229011.63012,69.3,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Tasikmalaya,2024,MERAH,86581.95457999999,72.58,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Ciamis,2024,MERAH,75224.75829999999,73.51,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kuningan,2024,MERAH,106650.59958,73.73,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Cirebon,2024,MERAH,72564.40638,74.98,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Majalengka,2024,MERAH,288184.49122,73.04,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Sumedang,2024,MERAH,86344.1,71.64,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Indramayu,2024,MERAH,100076.80614,76.55,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Subang,2024,MERAH,145658.17144,73.98,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Purwakarta,2024,MERAH,42540.73428,73.72,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Karawang,2024,MERAH,28143.413880000004,76.44,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Bekasi,2024,MERAH,57756.1195,76.68,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Bandung Barat,2024,MERAH,153535.70532,68.85,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Pangandaran,2024,MERAH,34946.321939999994,75.72,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Bogor,2024,MERAH,5120.63872,72.96,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Sukabumi,2024,MERAH,1323.88582,71.1,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Kota Bandung,2024,MERAH,4109.51928,69.83,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Kota Cirebon,2024,MERAH,2957.22206,76.13,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Bekasi,2024,MERAH,5048.414280000001,76.54,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Depok,2024,MERAH,6274.89656,76.08,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Cimahi,2024,MERAH,3473.5385999999994,70.02,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Kota Tasikmalaya,2024,MERAH,9382.09764,73.07,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Banjar,2024,MERAH,2547.1662400000005,76.03,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Bogor,2025,MERAH,117394.40554000002,72.98,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Sukabumi,2025,MERAH,128557.78329999998,72.06,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Cianjur,2025,MERAH,189246.37165999995,70.55,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Bandung,2025,MERAH,204687.49940000003,67.18,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Garut,2025,MERAH,232614.86378,69.3,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Tasikmalaya,2025,MERAH,86795.13700000002,72.58,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Ciamis,2025,MERAH,75594.14093999998,73.51,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kuningan,2025,MERAH,107709.38199999998,73.73,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Cirebon,2025,MERAH,73288.96325999999,74.98,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Majalengka,2025,MERAH,290861.89644,73.04,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Sumedang,2025,MERAH,86354.94,71.64,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Indramayu,2025,MERAH,101534.26142,76.55,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Subang,2025,MERAH,147612.94414,73.98,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Purwakarta,2025,MERAH,42860.44904,73.72,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Karawang,2025,MERAH,28255.86384,76.44,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Bekasi,2025,MERAH,58173.05442,76.68,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Bandung Barat,2025,MERAH,154781.70404,68.85,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Pangandaran,2025,MERAH,35094.87612,75.72,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Bogor,2025,MERAH,5221.145060000001,72.96,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Sukabumi,2025,MERAH,1666.4688999999998,71.1,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Kota Bandung,2025,MERAH,4324.27466,69.83,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Kota Cirebon,2025,MERAH,2723.2718000000004,76.13,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Bekasi,2025,MERAH,5048.414280000001,76.54,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Depok,2025,MERAH,6268.252339999999,76.08,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Cimahi,2025,MERAH,3472.6146,70.02,LOW,"Evaluasi kualitas ransum dan air minum, tinjau jadwal pemerahan"
+Kota Tasikmalaya,2025,MERAH,9555.79244,73.07,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)
+Kota Banjar,2025,MERAH,2547.91488,76.03,MEDIUM,WARNING: Monitor THI rutin per 2 jam (Status: MILD)

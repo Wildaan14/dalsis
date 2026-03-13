@@ -1,0 +1,26 @@
+kabupaten,tier,CO2eq_t,priority,rekomendasi_utama
+Kab. Garut,MERAH,356180.16182000004,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Bandung,MERAH,303343.4,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Bandung Barat,MERAH,239044.85,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Tasikmalaya,MERAH,184069.81,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Sukabumi,MERAH,164633.59999999998,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Cianjur,MERAH,134042.4,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Ciamis,MERAH,121188.44,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Kuningan,MERAH,99842.43,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Majalengka,MERAH,88420.69,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Sumedang,MERAH,79590.73,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Subang,MERAH,53206.33,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Indramayu,MERAH,45652.670000000006,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Pangandaran,MERAH,37502.02,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Purwakarta,MERAH,34729.630000000005,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Karawang,MERAH,34099.68,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kab. Bekasi,MERAH,13670.570000000002,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kota Tasikmalaya,MERAH,6768.875,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kota Banjar,MERAH,4296.057,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kota Bogor,MERAH,1936.465,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kota Sukabumi,MERAH,1506.5545,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kota Bandung,MERAH,1035.689,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kota Cirebon,MERAH,670.569,HIGH,CRITICAL: Aktifkan pendingin kandang segera
+Kota Cimahi,KUNING,472.492,MEDIUM,WARNING: Monitor suhu tiap 2 jam
+Kota Bekasi,KUNING,383.836,MEDIUM,WARNING: Monitor suhu tiap 2 jam
+Kota Depok,KUNING,210.788,MEDIUM,WARNING: Monitor suhu tiap 2 jam
