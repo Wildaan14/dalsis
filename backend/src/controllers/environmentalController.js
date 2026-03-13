@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ee = require('@google/earthengine');
-const privateKey = require('../config/gee-key.json');
+const privateKey = require('../../config/gee-key.json');
 
 exports.getLatestEnvironmentalData = (req, res) => {
   try {
